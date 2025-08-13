@@ -21,7 +21,7 @@ The analysis aims to:
 
 - Provide data-driven recommendations for buyers, sellers, and investors
 
-##Data Structure Overview
+## Data Structure Overview
 
 The dataset contains 6,347 property listings with the key columns:
 
@@ -136,7 +136,7 @@ For Investors:
 
 - Monitor high-price clusters for potential luxury market investment.
 
-### Tech Stack & Tools
+## Tech Stack & Tools
   
 - Python (Pandas, Matplotlib, Seaborn) — Data cleaning, EDA, and visualization
 
