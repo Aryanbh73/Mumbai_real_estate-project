@@ -31,7 +31,7 @@ The dataset contains 6,347 property listings with the key columns:
 
 ## Executive Summary
 
-Price and Amenities:
+### Price and Amenities:
 
 The price and amenities analysis demonstrates that properties with premium facilities command significantly higher valuations. Listings with amenities such as gymnasiums, swimming pools, and dedicated car parking consistently exceed the citywide average price per sq. ft. of ₹13,555, often reaching ₹18,000–₹20,000 per sq. ft. Properties offering four or more key amenities tend to fall into the high-price segment, with average total prices above ₹2 crore. Interestingly, some emerging suburbs like Mira Road West and Kalyan West combine extensive amenities with competitive per sq. ft. prices around ₹9,000–₹11,000, making them attractive to budget-conscious buyers. In contrast, luxury zones like Malabar Hill and Bandra West maintain per sq. ft. rates above ₹40,000, where amenities act as a baseline expectation rather than a differentiator.
 
@@ -59,7 +59,7 @@ The price and amenities analysis demonstrates that properties with premium facil
 
 - Amenities improve market appeal and act as price enhancers in competitive locations.
 
-  Property Type & Market Segmentation:
+### Property Type & Market Segmentation:
 
 The macro-level analysis of the Mumbai real estate market reveals a highly segmented property landscape with clear pricing tiers. Out of 6,347 listings, the average property price is ₹1.51 crore, with prices ranging from ₹20 lakh to ₹4.2 crore, and an average price per sq. ft. of ₹13,555. A majority of listings fall into medium (₹80 lakh – ₹1.5 crore) and high-price (₹1.5 crore – ₹2.5 crore) categories, with 46% classified as high-price properties. 2BHK units make up 41% of the market, followed by 3BHK at 32%, while 4BHK+ units represent only 8% but command up to 3× the price per sq. ft. Apartments dominate the market with over 85% share, while villas and independent houses together account for less than 5%. Geographically, Khargar (9%), Thane West (7%), and Mira Road West (6%) lead in listing volumes, while prime areas like Malabar Hill and Worli hold per sq. ft. valuations exceeding ₹40,000.
 
@@ -76,3 +76,70 @@ The macro-level analysis of the Mumbai real estate market reveals a highly segme
 - Top Locations by Listing Volume: Khargar (9%), Thane West (7%), Mira Road West (6%)
 
 - Highest Per Sq. Ft. Pricing: Malabar Hill, Worli (>₹40,000 per sq. ft.)
+
+- Most properties fall into medium to high-price categories, aligning with Mumbai’s overall premium market.
+
+- 2BHK and 3BHK units dominate supply, catering to middle-income and upper-middle-income demand.
+
+- Larger configurations (4BHK and above) are scarce but priced significantly higher.
+
+- Apartments are the dominant property type, with minimal presence of villas or independent houses.
+
+- Suburban hubs (Khargar, Thane West, Mira Road West) lead in listing volumes.
+
+- Prime south and central Mumbai areas hold the highest per sq. ft. valuations.
+
+## Insights Deep Dive
+  
+Macro View — Citywide Trends
+- Khargar, Thane West, Mira Road West emerge as top listing hubs with varied price segments.
+
+- Price per sq. ft. varies widely between low-budget and premium locations.
+
+- Majority of listings fall in Medium to High price categories.
+
+Location-Wise Price Patterns
+- South and central Mumbai pockets show very high per sq. ft. prices.
+
+- Some suburban locations with high amenities still have competitive pricing.
+
+BHK-Based Observations
+- 2BHK and 3BHK properties dominate listings.
+
+- Larger BHKs (5BHK, 6BHK, 7BHK) show sharp price jumps but limited availability.
+
+Amenities Impact
+- Locations with Gymnasium, Swimming Pool, Car Parking, and Parks command higher average prices.
+
+- Amenities contribute to price premiums but also correlate with property size.
+
+Price vs Area Relationship
+- Properties under ~2,000 sq. ft. show wide price dispersion, indicating location/amenity influence over pure size metrics.
+
+## Recommendations
+
+For Buyers:
+
+- Explore suburban regions like Mira Road West or Kalyan West for better price-to-amenity ratios.
+
+- Consider resale properties for better negotiation margins in premium areas.
+
+For Sellers:
+
+- Highlight amenities and unique features in listings — they have proven price uplift potential.
+
+- Price competitively in saturated mid-tier locations to improve sale velocity.
+
+For Investors:
+
+- Focus on emerging hubs with infrastructure projects — these have the potential for strong appreciation.
+
+- Monitor high-price clusters for potential luxury market investment.
+
+### Tech Stack & Tools
+  
+- Python (Pandas, Matplotlib, Seaborn) — Data cleaning, EDA, and visualization
+
+- Power BI — Interactive dashboards for macro & micro analysis
+
+- Excel — Raw Mumbai property listings data and add ons
