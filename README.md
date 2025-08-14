@@ -5,13 +5,6 @@
 The Mumbai real estate market is one of the most dynamic and high-value property sectors in India. Prices vary significantly based on location, property type, amenities, and BHK configuration.
 This project uses real estate listing data for Mumbai to perform exploratory data analysis (EDA), visualization, and dashboard creation in Power BI and Python.
 
-The analysis aims to:
-
-Background & Overview
-The Mumbai real estate market is one of the most dynamic and high-value property sectors in India. Prices vary significantly based on location, property type, amenities, and BHK configuration.
-This project uses real estate listing data for Mumbai to perform exploratory data analysis (EDA), visualization, and dashboard creation in Power BI and Python.
-
-The analysis aims to:
 
 - Understand pricing patterns across locations and property types
 
