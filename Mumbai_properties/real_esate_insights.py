@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("Mumbai1.csv")
+df = pd.read_csv("c://Users//hp//OneDrive//Deskstop//Mumbai_properties//Mumbai1.csv")
 
 print("First few rows of the dataset:")
 print(df.head())
@@ -58,3 +58,4 @@ else:
 df['price_per_sqft'] = df['Price'] / df['Area']
 df['BHK_Category'] = df['No. of Bedrooms'].apply(lambda x: '1BHK' if x == 1 else ('2BHK' if x == 2 else ('3BHK' if x == 3 else '4+BHK')))
 print(df['Price'].unique()[:20])
+
